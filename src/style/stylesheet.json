@@ -1,0 +1,44 @@
+{
+  "styles": [
+    {
+      "level": 0,
+      "indent": 0,
+      "color": "#FF0000", 
+      "fontName": "Helvetica",
+      "fontSize": 48,
+      "leading": 20
+    },
+    {
+      "level": 1,
+      "indent": 20,
+      "color": "#0000FF", 
+      "fontName": "Helvetica",
+      "fontSize": 40,
+      "leading": 10
+    },
+    {
+      "level": 2,
+      "indent": 50,
+      "color": "#000000",
+      "fontName": "Helvetica",
+      "fontSize": 36,
+      "leading": 10
+    },
+    {
+      "level": 3,
+      "indent": 70,
+      "color": "#000000",
+      "fontName": "Helvetica",
+      "fontSize": 30,
+      "leading": 10
+    },
+    {
+      "level": 4,
+      "indent": 90,
+      "color": "#000000",
+      "fontName": "Helvetica",
+      "fontSize": 24,
+      "leading": 10
+    }
+  ]
+}
